@@ -2,7 +2,7 @@
 <img class="not-gallery-item" height="48" src="https://tangjianpeng.com/css/images/logo.png">
 <br> A simple, delicate, and modern theme for the static site generator Hexo.
 <br>
-<a href=""https://tangjianpeng.com/">Preview</a> |
+<a href="https://tangjianpeng.com/">Preview</a> |
 <a href="https://github.com/Pink3/Hexo-Themes-Alex">Documentation</a> |
 <a href="https://github.com/Pink3/Hexo-Themes-Alex/discussions">Discuss on GitHub</a>
 <br>
