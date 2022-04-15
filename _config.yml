@@ -1,0 +1,34 @@
+# Header
+menu: 
+  HOME: /
+  BLOG: /
+  PHOTO: /
+  WORK: /about
+rss: 
+github: https://github.com/Pink3/Hexo-Themes-Alex
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: left
+widgets:
+# - category
+- archive
+# - recent_posts
+# - tag
+- tagcloud
+# - links
+
+# Links
+links: 
+  Hexo: http://hexo.io
+
+# Miscellaneous
+# google_analytics:
+favicon: /favicon.ico
+# twitter:
+# google_plus:
+# fb_admins:
+# fb_app_id:
